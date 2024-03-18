@@ -1,0 +1,12 @@
+{
+  "name": "backend-sp",
+  "version": "1.0.0",
+  "description": "A streaming platform like youtube",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sourabh Panjwani",
+  "license": "ISC"
+}
